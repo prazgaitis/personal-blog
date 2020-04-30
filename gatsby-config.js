@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Paul Razgaitis`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Paul Razgaitis`,
+      summary: `I am a Senior Software Engineer living in Chicago. I like making things and teaching others to do the same. Sometimes its with code, other times with wood and a saw, and sometimes it’s hot sauce. 🌶`,
+      extendedSummary: ``,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://pauli.us`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `prazgaitis`,
     },
   },
   plugins: [
