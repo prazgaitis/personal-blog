@@ -5,6 +5,7 @@ description: "How fraudsters can steal your credit card info with a QR code and 
 hidden: false
 ---
 
+![credit card at a restaurant](https://images.unsplash.com/photo-1572798793834-67d5e285760d?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjYzOTIxfQ&w=3600)
 A few days ago, a friend (lets call her Eli) told me about how someone stole her credit card info at a restaurant.
 
 We're in Chicago in the middle of the Covid-19 pandemic. Restaurants have started to open back up, but only those with outdoor seating. To avoid spreading Covid, some restaurants are placing a laminated piece of paper with a QR code on each table.
