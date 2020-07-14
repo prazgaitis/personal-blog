@@ -22,7 +22,7 @@ On the tech side, things are even easier. The attacker can register a generic so
 
 You can pass this query string into an iFrame, which makes it look like you're actually on [giordanos.com](http://giordanos.com/). After a few seconds, simply show a popup to a payment form of your choosing.
 
-In Eli's case, it was some sort of nondescript subscription service. If it's something with a generic name for a \$20/month or so, a lot of people might not notice for a long time.
+In Eli's case, the credit card was charged to some sort of nondescript subscription service. If it's something with a generic name for a \$20/month or so, a lot of people might not notice for a long time.
 
 [Here's a codepen with example code](https://codepen.io/pranas/pen/rNxZMMy).
 
