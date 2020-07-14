@@ -6,7 +6,7 @@ module.exports = {
       summary: `I am a Senior Software Engineer living in Chicago. I like making things and teaching others to do the same. Sometimes its with code, other times with wood and a saw, and sometimes it’s hot sauce. 🌶`,
       extendedSummary: ``,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `a blog where i write stuff sometimes`,
     siteUrl: `https://pauli.us`,
     social: {
       twitter: `prazgaitis`,
