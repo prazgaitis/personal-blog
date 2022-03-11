@@ -1,32 +1,37 @@
 ---
-title: "Sell anything online. For free."
+title: "[Draft] Sell anything online. For free."
 date: "2022-03-09 10:30"
 description: "Sell stuff, get paid in crypto" 
-hidden: false
+hidden: true
 ---
 
 ### Side project? Or a one-way ticket to prison? 
 
 I recently stumbled upon a project that was intriguing because it was so simple. It's called [onetem.store](https://oneitem.store).
 
-What is it? Well, it's an online store builder. There are hundreds of those, but this one is interesting because of what it _doesn't_ do. There's no inventory, no shipping tracker, no pop-ups. [The creator](https://tinyprojects.dev/) built it in about a week and then sold it for a couple thousand bucks. Not bad!
+It's an online store builder, but that's not what makes it interesting. There are hundreds of those, but this one is cool because of what it _doesn't_ do. There's no inventory, no shipping tracker, no pop-ups. [The creator built it in about a week](https://tinyprojects.dev/projects/one_item_store) and then sold it for a couple thousand bucks. Not bad!
 
 
-This got me thinking. Can we do better? What if we could skip the whole payments part where you pay 3% tax to Stripe? Disclaimer: Stripe is great. I use them professionally and I love the people and the product - they make it easy for us to accept payments and send money all around the world. They're well worth their fees.
+This got me thinking. Can we do better? What if we could skip the part where you pay 3% tax to Stripe? Disclaimer: I think Stripe is great. I use them professionally and I love the product and the folks who build it. It's well worth the 3-ish percent fee.
 
-A bit of background. My day job is at [Cameo.com](https://www.cameo.com/praz?ref=blog), where I'm the tech lead of the Payments team. We do regular Web2 marketplace-style payments, but recently we've also taken the plunge into [Web3](https://pass.cameo.com). We'll have more to announce in this area soon. As for me, I've been interested in crypto ever since the run in 2017. I work in the Payments space, so it's a professional obligation to stay up to date on the latest tech.
-
-
-The coolest thing I've seen recently in crypto is [Solana Pay](https://solana.com/news/solana-pay-announcement). Take this with a grain of salt, I'm a payments nerd. Solana Pay is basically a pre-built smart contract and some Javascript libraries that let merchants easily accept payments in Solana.
+A bit of background. My day job is at [Cameo.com](https://www.cameo.com/praz?ref=blog), where I'm the Tech lead of the Payments team. We do regular Web2 marketplace-style payments, but recently we've also taken the plunge into [Web3](https://pass.cameo.com). We'll have more to announce in this area soon. As for me, I've been interested in crypto ever since the run in 2017. I work in the Payments space, so it's a professional obligation to stay up to date on the latest tech.
 
 
-Why is it cool? For me, it hit home when I fired up my terminal and sent a couple bucks to a friend _instantly_ with Solana. And it was free! It reminded me of the first time I used Venmo, except this was even better - there's no middleman, no account verification, nothing.
+If you follow crytpto at all, you've heard of Solana. At a very high level, it's a blockchain that is kinda like Ethereum, except it can handle can handle thousands of transactions per second at very little cost.
 
-We now have a way to combine these two ideas.
 
+For me, it hit home when I fired up my terminal and sent a couple bucks to a friend _instantly_ with Solana. And it was free! It reminded me of the first time I used Venmo, except this was even better - there's no middleman, no account verification, nothing.
+
+The team at Solana Labs just released [Solana Pay](https://solana.com/news/solana-pay-announcement), which is basically a pre-built smart contract and some Javascript libraries that let merchants easily accept payments. Payments can happen in Solana, the project's native currency or USDC.
+
+This sounds like the perfect way to do payments at (essentially) zero cost for our online store!
 ### **online store**  🤝  **instant, free payments**
 
-And so the Simple Crypto Store (plz help me find a better name) was born! Create an online store in 30 seconds and start selling your stuff right away. No payment processor needed. Zero payment processing fees.
+I quickly hacked together a prototype, [which you can try here](https://crypto-store.vercel.app/).
+
+![create a new store](./create-store.png)
+
+<!-- And so the Simple Crypto Store (plz help me find a better name) was born! You can create an online store in 30 seconds and start selling your stuff right away. No payment processor needed. Zero payment processing fees. -->
 
 ### Why would I use this?
 
@@ -52,7 +57,9 @@ Could reviews work? The nice part about a public database (aka a blockchain) is 
 
 Has this worked in the past? Reviews worked great for Airbnb, but not as well for Amazon. It's well known that most Amazon reviews [are bullshit](https://www.amzfinder.com/blog/top-100-facebook-groups-list-amazon-reviews/).
 
-This seemed to work pretty well on the Silk Road, which brings us back to the Jail part. Anyone can sign up and sell anything, and the buyers pay in crypto? The Simple Crypto Store looks a lot like the Silk road. We've heard this story before, except this time the guy who made the thing is telling you about it on his blog. Please don't sell illegal stuff. I really don't want to have to learn how to do machine learning to filter through all newly created products.
+This seemed to work pretty well on the Silk Road, which brings us back to the Jail part. If anyone can sign up and sell anything relatively anonymously, there's a chance that bad people start selling bad things. 
+
+In this regard, the Simple Crypto Store looks a lot like the Silk road. We've heard this story before, and the other guy is [sitting in a jail cell](https://www.investopedia.com/tech/ross-ulbricht-dark-net-pirate/). Please don't sell illegal stuff here. I like being not in jail.
 
 ### Roadmap
 
