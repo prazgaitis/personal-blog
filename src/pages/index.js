@@ -8,7 +8,7 @@ import { rhythm } from "../utils/typography"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
-  const posts = data.allMarkdownRemark.edges
+  const posts = data.allMarkdownRemark.edges.filter(post => !post.node.frontmatter.title.toLowerCase().includes('draft'));
 
   return (
     <Layout location={location} title={siteTitle}>
