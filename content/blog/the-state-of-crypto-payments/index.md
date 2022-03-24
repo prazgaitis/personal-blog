@@ -63,13 +63,15 @@ And what about those taxes? Stablecoins could be an answer here. These won't cha
 
 ## Ok, maybe I'm convinced. How will it play out?
 
-There are a few things that need to happen
+There are a few crucial dominos that need to fall if any of this has a chance of happening.
 
 First, crypto adoption needs to continue (and it will). There needs to be a critical mass of users with a wallet on their phone or web browser so that merchants can't ignore this new payment method.
 
 Whatever you think about NFTs, they've been fantastic user acquisition channel for crypto in general. This will also continue, despite the mind-boggling prices for pictures of monkeys. Humans are irrational, and gambling is rooted deep in our psyche.
 
-We're seeing new crypto wallets pop up almost daily. The winner will be the one that has multi-chain support. It will need to be a fiat on-ramp as well. As we discussed earlier, there are still too many steps involved in actually _getting_ crypto. Keep an eye on [Phantom.app](https://phantom.app/), the leading Solana Wallet. The team just raised [a big round](https://blockworks.co/crypto-wallet-raises-109-million/), and is looking to add ETH support. [Coinbase Wallet](https://www.coinbase.com/wallet) is the gorilla here. They've got the engineering chops, a lot of users, and very deep pockets.
+We're seeing new crypto wallets pop up almost daily. The winner will be the one that has multi-chain support. It will need to be a fiat on-ramp as well. As we discussed earlier, there are still too many steps involved in actually _getting_ crypto. Keep an eye on [Phantom.app](https://phantom.app/), the leading Solana Wallet. The team just raised [a big round](https://blockworks.co/crypto-wallet-raises-109-million/), and is looking to add ETH support. 
+
+[Coinbase Wallet](https://www.coinbase.com/wallet) is the 800lb gorilla in the space. They've got the engineering chops, a lot of users, and very deep pockets.
 
 Next, we need to build better tools for merchants. In the late 90's there was Authorize.net, which now seems antiquated compared to [Stripe](https://stripe.com). If you run a Shopify store today, you would never even consider integrating directly with Visa and the card issuing banks direclty. No, you'd use a payment processor like Stripe, Braintree. It'll be the same way with the blockchain and smart contracts. 
 
