@@ -73,9 +73,9 @@ We're seeing new crypto wallets pop up almost daily. The winner will be the one 
 
 [Coinbase Wallet](https://www.coinbase.com/wallet) is the 800lb gorilla in the space. They've got the engineering chops, a lot of users, and very deep pockets.
 
-Next, we need to build better tools for merchants. In the late 90's there was Authorize.net, which now seems antiquated compared to [Stripe](https://stripe.com). If you run a Shopify store today, you would never even consider integrating directly with Visa and the card issuing banks direclty. No, you'd use a payment processor like Stripe, Braintree. It'll be the same way with the blockchain and smart contracts. 
+Next, we need to build better tools for merchants. In the late 90's Authorize.net was revolutionary - finally you could do online payments! Today, Authorize.net seems antiquated compared to [Stripe](https://stripe.com). 
 
-The difference is that this time you link up to a global, permissionless network instead of an endless chain of middlemen.
+If you run a Shopify store today, you would never even consider integrating directly with Visa and the card issuing banks. No, you'd use a payment processor like Stripe, Braintree, or Adyen. It'll be the same way with the blockchain and smart contracts. The difference is that this time you link up to a global, permissionless network instead of an endless chain of middlemen.
 
 We already have projects like [Solana Pay](https://solana.com/news/solana-pay-announcement), which allow merchants to accept payments without ever needing to think about a blockchain. It ends up being a better experience than credit cards, and it's much cheaper too.
 
