@@ -1,5 +1,5 @@
 ---
-title: "The state of Crypto Payments in 2022"
+title: "Crypto Payments in 2022"
 date: "2022-03-14 20:30"
 description: "When will crypto start taking market share from Visa?" 
 hidden: false
@@ -75,7 +75,7 @@ Next, we need a strong leader to push the crypto wallet space forward and more u
 
 Finally, we need to build better tools for merchants. In the late 90's Authorize.net was revolutionary - finally you could do online payments! Today, Authorize.net seems antiquated next to players like [Stripe](https://stripe.com).
 
-If you run a Shopify store today, you would never even consider integrating directly with Visa and the card issuing banks like Chase and Capital One. No, you'd use a payment processor like Stripe, Braintree, or Adyen. It'll be the same way with the blockchain and smart contracts. The difference is that this time you link up to a global, permissionless network instead of an endless chain of middlemen.
+If you run a Shopify store today, you would never even consider integrating directly with Visa and the card issuing banks like Chase and Capital One. No, you'd use a payment processor like Stripe, Braintree, or Adyen. It'll be the same way with the blockchain and smart contracts. The difference this time is that you'll connect to a global, permissionless network instead of an endless, complicated string of middlemen.
 
 We already have projects like [Solana Pay](https://solana.com/news/solana-pay-announcement), which allows merchants to accept payments without ever needing to think about a blockchain. It's just as fast as credit cards, its cheaper, and it has way better security.
 
