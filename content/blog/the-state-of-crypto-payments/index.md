@@ -33,7 +33,7 @@ This adds friction to the booking process. What happens if you cancel your trip?
 
 And what about chargebacks? They're a notorious thorn in the side for merchants, but they do give the buyer some protection. Got charged for something that didn't show up in the mail? Call Chase and they'll take it off your statement. If you paid with crypto, you're outta luck.
 
-In the US, using crypto to buy something counts as a taxable event. If you buy a TV with crypto, you technically need to report the capital gains when you settle up with Uncle Sam.
+In the US, using crypto to buy something counts as a taxable event. If you buy a TV with crypto, you technically need to report the capital gains when you settle up with the IRS.
 
 Lastly, it's still too confusing. To buy the Tesla belt buckle, first I have to figure out where to buy dogecoin. I see that there is a dogecoin wallet in the App Store, but it won't let me exchange my dollars for coins. I _also_ have to make sure the wallet allows me to send it somewhere. Coinbase does the trick, but Robinhood does not -- I can buy coins, but I can't send them anywhere.
 
