@@ -27,7 +27,7 @@ First, the obvious points of friction. Shoppers don't want to trade a speculativ
 
 Let's say you buy an NFT for 1 ETH. If you get lucky and the price goes up to 1.1 ETH, the price of ETH could drop 20%. Even if the value of the NFT stays flat (it probably won't - the vast majority NFTs lose value), how much did that NFT _really_ cost you? 😬
 
-There are more subtle reasons too. Look at this big ole disclaimer on Travala.com, a travel booking site. ![travala refund policy](https://i.imgur.com/v9WxAHa.png)
+There are more subtle reasons too. Look at this big disclaimer on Travala.com, a travel booking site. ![travala refund policy](https://i.imgur.com/v9WxAHa.png)
 
 This adds friction to the booking process. What happens if you cancel your trip? The refund process is not really clear or consistent.
 
@@ -59,7 +59,7 @@ It usually costs the merchant about 3% to run a credit card transaction. Most pa
 
 Crypto flips this on its head! For crypto purchases, the _buyer_ pays the transaction fee. Sure, we won't use the Ethereum mainnet where transaction fees are about [$46 today](https://coinmarketcap.com/alexandria/article/sick-of-high-ethereum-gas-fees-do-this-instead). Other chains like Solana, Bitcoin Lightning, Avalanche, or Polygon (an Ethereum L2) offer instant transactions for fractions of a penny.
 
-And what about those taxes? Stablecoins could be an answer here. These won't change in value, so there shouldn't be any capital gains to worry about.
+And what about those taxes? Stablecoins could be an answer here. These won't change in value relative to the dollar, so there shouldn't be any capital gains to worry about.
 
 ## Ok, maybe I'm convinced. How will it play out?
 
@@ -69,18 +69,18 @@ First, crypto adoption needs to continue (and it will). There needs to be a crit
 
 Whatever you think about NFTs, they've been fantastic user acquisition channel for crypto in general. This will also continue, despite the mind-boggling prices for pictures of monkeys. Humans are irrational, and gambling is rooted deep in our psyche.
 
-We're seeing new crypto wallets pop up almost daily. The winner will be the one that has multi-chain support. It will need to be a fiat on-ramp as well. As we discussed earlier, there are still too many steps involved in actually _getting_ crypto. Keep an eye on [Phantom.app](https://phantom.app/), the leading Solana Wallet. The team just raised [a big round](https://blockworks.co/crypto-wallet-raises-109-million/), and is looking to add ETH support. 
+Next, we need a strong leader to push the crypto wallet space forward and more user-friendly. We're seeing new crypto wallets pop up almost daily. The winner will be the one that has multi-chain support. It will need to be a fiat on-ramp as well. It should hide complexity from users -- I shouldn't need to know what ERC20 or SPL tokens are. As we discussed earlier, there are still too many steps involved in actually _getting_ crypto. Keep an eye on [Phantom.app](https://phantom.app/), the leading Solana Wallet. The team just raised [a big round](https://blockworks.co/crypto-wallet-raises-109-million/), and is looking to add ETH support.
 
-[Coinbase Wallet](https://www.coinbase.com/wallet) is the 800lb gorilla in the space. They've got the engineering chops, a lot of users, and very deep pockets.
+[Coinbase Wallet](https://www.coinbase.com/wallet) is the 800lb gorilla in the space. They've got the engineering chops, a lot of users, and very deep pockets. They also have multi-chain support already.
 
-Next, we need to build better tools for merchants. In the late 90's Authorize.net was revolutionary - finally you could do online payments! Today, Authorize.net seems antiquated compared to [Stripe](https://stripe.com). 
+Finally, we need to build better tools for merchants. In the late 90's Authorize.net was revolutionary - finally you could do online payments! Today, Authorize.net seems antiquated next to players like [Stripe](https://stripe.com).
 
-If you run a Shopify store today, you would never even consider integrating directly with Visa and the card issuing banks. No, you'd use a payment processor like Stripe, Braintree, or Adyen. It'll be the same way with the blockchain and smart contracts. The difference is that this time you link up to a global, permissionless network instead of an endless chain of middlemen.
+If you run a Shopify store today, you would never even consider integrating directly with Visa and the card issuing banks like Chase and Capital One. No, you'd use a payment processor like Stripe, Braintree, or Adyen. It'll be the same way with the blockchain and smart contracts. The difference is that this time you link up to a global, permissionless network instead of an endless chain of middlemen.
 
-We already have projects like [Solana Pay](https://solana.com/news/solana-pay-announcement), which allow merchants to accept payments without ever needing to think about a blockchain. It ends up being a better experience than credit cards, and it's much cheaper too.
+We already have projects like [Solana Pay](https://solana.com/news/solana-pay-announcement), which allows merchants to accept payments without ever needing to think about a blockchain. It's just as fast as credit cards, its cheaper, and it has way better security.
 
-Most, if not all of the problems above can be solved with better tooling. Given that some of best engineers are flocking to the space, it seems like we'll get there.
+Most, if not all of the problems above will be solved with better tools. Given that some of best engineers are flocking to the space, it seems likely that we'll get there.
 
-Let's keep building!
+Let's keep building! 🚀
 
-Thanks to [Bitcoin Blaize](https://twitter.com/blaizebitcoin) for bouncing around ideas for this piece.
+Thanks to [Bitcoin Blaize](https://twitter.com/blaizebitcoin) for reading a draft of this piece.

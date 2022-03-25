@@ -2,6 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
+import "@fontsource/open-sans"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -31,7 +32,7 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h3
         style={{
-          fontFamily: `Montserrat, sans-serif`,
+          fontFamily: `Open Sans, sans-serif`,
           marginTop: 0,
         }}
       >
@@ -50,9 +51,10 @@ const Layout = ({ location, title, children }) => {
   return (
     <div
       style={{
+        fontFamily: `Open Sans, sans-serif`,
         marginLeft: `auto`,
         marginRight: `auto`,
-        maxWidth: rhythm(24),
+        maxWidth: rhythm(28),
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
     >
