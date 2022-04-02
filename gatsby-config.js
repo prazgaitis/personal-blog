@@ -3,7 +3,7 @@ module.exports = {
     title: `Paul Razgaitis`,
     author: {
       name: `Paul Razgaitis`,
-      summary: `I am a software engineer living in Chicago. I like making things and teaching others to do the same. Sometimes it's with code, other times with wood and a saw, and sometimes it's hot sauce. 🌶`,
+      summary: `I am a software engineer in Chicago. I like making things and teaching others to do the same. Sometimes it's with code, other times with wood and a saw, and sometimes it's hot sauce. 🌶`,
       extendedSummary: ``,
     },
     description: `a blog where i write stuff sometimes`,

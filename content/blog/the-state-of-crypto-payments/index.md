@@ -71,7 +71,7 @@ Next, we need a clear winner in the crypto wallet space. We're seeing new wallet
 
 The wallet that onboards the next 100 million users will not be an Ethereum Wallet. It won't be a Solana Wallet.
 
-Instead, it will have have multi-chain support. It will have a fiat on-ramp built _directly_ into the wallet. It will have a "checking" account of stablecoins that are staked for you automatically and are ready to be spent. It will have a universal QR code for sending and receiving transactions between friends. 
+Instead, it will have have multi-chain support. It will have a fiat on-ramp built _directly_ into the wallet. It will have a "checking" account of stablecoins that are staked for you automatically and are ready to be spent. It will have a universal QR code for sending and receiving transactions between friends.
 
 It won't have any warning messages that say...
 
